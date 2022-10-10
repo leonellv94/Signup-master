@@ -98,6 +98,14 @@ h1 {
     border: none;
 }
 
+.btn__trial:hover {
+    background: hsl(154, 59%, 51%, 0.5);
+    cursor: pointer;
+}   
+
+.btn__trial:active {
+    background: hsl(154, 65%, 27%);
+}
 
 .form__content {
     padding:20px;

@@ -47,6 +47,5 @@ form.addEventListener('submit', (e) => {
         password.classList.remove ('red_border');
         error[3].classList.add ('hidden')
     }
-
 })
 
